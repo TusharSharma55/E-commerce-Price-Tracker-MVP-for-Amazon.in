@@ -1,0 +1,46 @@
+2023-09-29 10:22:40,975 ** Data has been extracted successfully from the provided URL. ** INFO ** 82
+2023-09-29 10:22:40,984 ** Data has been added to the CSV file. ** INFO ** 60
+2023-09-29 10:22:40,984 ** Notifying the user via Email ** INFO ** 63
+2023-09-29 10:22:44,922 ** Connected to server :-) ** INFO ** 28
+2023-09-29 10:22:44,922 ** Sending email to - subhayu.kumar@fiftyfivetech.io ** INFO ** 32
+2023-09-29 10:22:47,334 ** Email successfully sent to - subhayu.kumar@fiftyfivetech.io ** INFO ** 35
+2023-09-29 10:35:33,686 ** Data has been extracted successfully from the provided URL. ** INFO ** 82
+2023-09-29 10:35:33,692 ** Data has been added to the CSV file. ** INFO ** 60
+2023-09-29 10:35:33,692 ** Notifying the user via Email ** INFO ** 63
+2023-09-29 10:35:37,362 ** Connected to server :-) ** INFO ** 28
+2023-09-29 10:35:37,362 ** Sending email to - xyz@gmail.com ** INFO ** 32
+2023-09-29 10:35:39,827 ** Email successfully sent to - xyz@gmail.com ** INFO ** 35
+2023-09-29 10:37:57,824 ** Data has been extracted successfully from the provided URL. ** INFO ** 82
+2023-09-29 10:37:57,834 ** Data has been added to the CSV file. ** INFO ** 60
+2023-09-29 10:37:57,834 ** Notifying the user via Email ** INFO ** 63
+2023-09-29 10:38:00,018 ** Connected to server :-) ** INFO ** 28
+2023-09-29 10:38:00,018 ** Sending email to - xyz@gmail.com ** INFO ** 32
+2023-09-29 10:38:01,529 ** Email successfully sent to - xyz@gmail.com ** INFO ** 35
+2023-09-29 10:38:21,573 ** Data has been extracted successfully from the provided URL. ** INFO ** 82
+2023-09-29 10:38:21,581 ** Data has been added to the CSV file. ** INFO ** 60
+2023-09-29 10:38:29,379 ** Data has been extracted successfully from the provided URL. ** INFO ** 82
+2023-09-29 10:38:29,384 ** Data has been added to the CSV file. ** INFO ** 60
+2023-09-29 10:38:37,195 ** Data has been extracted successfully from the provided URL. ** INFO ** 82
+2023-09-29 10:38:37,200 ** Data has been added to the CSV file. ** INFO ** 60
+2023-09-29 10:38:45,183 ** Data has been extracted successfully from the provided URL. ** INFO ** 82
+2023-09-29 10:38:45,187 ** Data has been added to the CSV file. ** INFO ** 60
+2023-09-29 10:38:53,094 ** Data has been extracted successfully from the provided URL. ** INFO ** 82
+2023-09-29 10:38:53,099 ** Data has been added to the CSV file. ** INFO ** 60
+2023-09-29 10:39:01,040 ** Data has been extracted successfully from the provided URL. ** INFO ** 82
+2023-09-29 10:39:01,045 ** Data has been added to the CSV file. ** INFO ** 60
+2023-09-29 10:39:08,797 ** Data has been extracted successfully from the provided URL. ** INFO ** 82
+2023-09-29 10:39:08,800 ** Data has been added to the CSV file. ** INFO ** 60
+2023-09-29 12:53:16,826 ** Data has been extracted successfully from the provided URL. ** INFO ** 82
+2023-09-29 12:53:16,845 ** Data has been added to the CSV file. ** INFO ** 60
+2023-09-29 12:53:16,845 ** Notifying the user via Email ** INFO ** 63
+2023-09-29 12:53:18,911 ** Connected to server :-) ** INFO ** 28
+2023-09-29 12:53:18,912 ** Sending email to - kunjprakash.sharma@fiftyfivetech.io ** INFO ** 32
+2023-09-29 12:53:20,497 ** Email successfully sent to - kunjprakash.sharma@fiftyfivetech.io ** INFO ** 35
+2023-09-29 15:14:40,465 ** Data has been extracted successfully from the provided URL. ** INFO ** 127
+2023-09-29 15:14:40,469 ** Price is Under the threshold. ** INFO ** 43
+2023-09-29 15:14:40,472 ** Data has been added to the CSV file. ** INFO ** 83
+2023-09-29 15:14:40,472 ** Notifying the user via Email ** INFO ** 86
+2023-09-29 15:14:40,472 ** Connecting to server... ** INFO ** 37
+2023-09-29 15:14:42,743 ** Connected to server :-) ** INFO ** 42
+2023-09-29 15:14:42,744 ** Sending email to - tushar.sharma@fiftyfivetech.io ** INFO ** 46
+2023-09-29 15:14:44,592 ** Email successfully sent to - tushar.sharma@fiftyfivetech.io ** INFO ** 49
